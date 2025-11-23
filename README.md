@@ -1,8 +1,8 @@
 # BIO-PYTHON-
-EXPLORING PYTHON IN BIO-TECH FIELD 
-HEY , HI HERE I AM USING PYTHON IN BIOTECHNOLOGY 
-IN TERMS HERE I USE PYTHON TOOLS ON BIOLOGICAL DATA 
-WHERE WE ARE GOING TO MAKE STRUCTURAL ANALYSIS AND MANY MORE 
-IN SESSION 1 I JUST STARTED THROUGH INTRODUCTION AND SOME SIMPLE PROJECTS 
-LOOKING FORWORD TO EXPLORE MORE THANK U .
+Exploring Python in Bio-Tech Field 
+Hey Hi here I am using Python in Biotechnology
+in terms here i use Python Tools on Biological Data
+where we are going to make Structural Analysis and many more
+in Session 1 i just started through Introduction and some simple Projects
+looking forward to explore more thank u.
 
